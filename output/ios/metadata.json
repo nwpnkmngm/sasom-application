@@ -1,0 +1,6 @@
+{
+  "branch": "update-ios",
+  "commitDate": "2025/03/27-18:42",
+  "commitDescription": "feat:test update application with hot-updater",
+  "targetVersion": "2.1.5"
+}
